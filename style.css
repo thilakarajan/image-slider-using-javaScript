@@ -1,0 +1,36 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body{
+    overflow: hidden;
+}
+
+button{
+    position: absolute;
+    background-color: rgba(240, 248, 255, 0.51);
+    border: 0px;
+}
+
+img{
+    width: 100%;
+}
+
+.images{
+    width: 100%;
+}
+
+.left{
+    width: 30px;
+    height: 50px;
+    top: 380px;
+}
+
+.right{
+    width: 30px;
+    height: 50px;
+    top: 380px;
+    right: 0px;
+}
